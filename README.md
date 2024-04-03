@@ -20,4 +20,9 @@ Add to environment path
 
 ```mv terraform /usr/local/bin```
 
+### Terraform commands
+
+https://spacelift.io/blog/terraform-commands-cheat-sheet
+
+
 
