@@ -12,12 +12,12 @@ Add the path to the environment variable
 #### For Linux
 Download the zip file for linux
 
-wget https://releases.hashicorp.com/terraform/1.7.5/terraform_1.7.5_linux_amd64.zip
+``` wget https://releases.hashicorp.com/terraform/1.7.5/terraform_1.7.5_linux_amd64.zip```
 
-unzip terraform_1.7.5_linux_amd64.zip
+```unzip terraform_1.7.5_linux_amd64.zip```
 
 Add to environment path
 
-mv terraform /usr/local/bin
+```mv terraform /usr/local/bin```
 
 
